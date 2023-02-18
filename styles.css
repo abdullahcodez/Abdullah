@@ -1,3 +1,5 @@
+/*Body CSS*/
+
 body{
     margin: 0;
     text-align: center;
@@ -36,7 +38,6 @@ hr{
     width: 4%;
     margin: 100px auto 100px auto;
 }
-hr
 
 .pro{
     text-decoration: underline;
@@ -120,8 +121,8 @@ padding: 20px 0;
 
 .top-cloud{
 position: absolute;
-    right: 300px;
-    top: 30px;
+    right: 200px;
+    top: 50px;
 }
 
 .bottom-cloud{
